@@ -1,4 +1,4 @@
-# **Welcome to my profile 👋**
+## **Welcome to my profile 👋**
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="Commits snake"/>
@@ -22,8 +22,11 @@ Hey there! My name is NZK95, a beginner in Software Development.
 &nbsp;&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=white)
+<details>
+  <summary><h2>GitHub stats ⭐</h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=white" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=white" />
+  </p>
+</details>
