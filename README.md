@@ -17,9 +17,8 @@
 <summary>📊 GitHub Stats</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=dark" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=dracula" />
   </div>
 </details>
 
