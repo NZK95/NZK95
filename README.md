@@ -2,7 +2,9 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-<h1 align="center">👋 Welcome to my GitHub profile!
+<h1 align="center"><h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my GitHub profile!
+</h1> Welcome to my GitHub profile!
 </h1>
 
 <p align="left">
