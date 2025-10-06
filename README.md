@@ -13,8 +13,8 @@
   <img width="1000" src="assets/github-snake.svg" alt="Commits snake"/>
 </p>
 
-  <summary>📊 GitHub Stats</summary>
-  
+<summary>📊 GitHub Stats</summary>
+<details>
   <br>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=dark" />
