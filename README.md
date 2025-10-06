@@ -31,7 +31,6 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NZK95&theme=dracula&hide_border=true" width="60%" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NZK95&theme=dracula" width="60%" />
 </div>
 </details>
 
