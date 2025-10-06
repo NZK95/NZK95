@@ -2,11 +2,13 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
-<h1 align="center">👋 Welcome to my GitHub profile!</h1>
-
+<h1 align="center">👋 Welcome to my GitHub profile!
 <p align="center">
   <img width="1000" src="assets/github-snake.svg" alt="Commits snake"/>
 </p>
+</h1>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=0e75b6&style=flat" alt="NZK95" />
 </p>
