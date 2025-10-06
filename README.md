@@ -6,8 +6,12 @@
 </h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=0e75b6&style=flat" alt="NZK95" />
+  <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NZK95?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/NZK95?label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/last-commit/NZK95/NZK95?label=Last%20commit&style=flat&color=0e75b6" alt="Last commit" />
 </p>
+
   
 <p align="center">
   <img width="1000" src="assets/github-snake.svg" alt="Commits snake"/>
