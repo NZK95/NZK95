@@ -22,11 +22,17 @@
 
 <details>
 <summary>📊 GitHub Stats</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=dracula" />
-  </div>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&count_private=true&theme=dracula" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=dracula" width="48%" />
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NZK95&theme=dracula" width="100%" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NZK95&theme=dracula&hide_border=true" width="60%" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NZK95&theme=dracula" width="60%" />
+</div>
 </details>
 
 <details>
