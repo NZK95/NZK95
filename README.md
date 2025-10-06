@@ -4,8 +4,8 @@
 
 <h1 align="center">
   <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1> Welcome to my GitHub profile!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome to my GitHub profile!
+</h1> 
 </h1>
 
 <p align="left">
