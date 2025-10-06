@@ -4,15 +4,15 @@
 
 <h1 align="center">👋 Welcome to my GitHub profile!
 <p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="Commits snake"/>
-</p>
-</h1>
-
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=0e75b6&style=flat" alt="NZK95" />
 </p>
 <details>
+</h1>
+
+<p align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="Commits snake"/>
+</p>
+
   <summary>📊 GitHub Stats</summary>
   
   <br>
