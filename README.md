@@ -38,8 +38,8 @@
   <summary><img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Projects & Repositories</summary>
   <br>
   <ul>
-    [`grubmod`](https://github.com/NZK95/grubmod) <br>
-    [`nvtweak`](https://github.com/NZK95/nvtweak) <br> 
-    [`SilentGuardian`](https://github.com/NZK95/SilentGuardian) <br>
+   https://github.com/NZK95/grubmod <br>
+   https://github.com/NZK95/nvtweak <br> 
+   https://github.com/NZK95/SilentGuardian <br>
   </ul>
 </details>
