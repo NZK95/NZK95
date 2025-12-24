@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/github/last-commit/NZK95/NZK95?label=Last%20commit&style=flat&color=808080" alt="Last commit" />
 </p>
 
-<p align="center" style="font-size: 36px;">
+<p align="center" style="font-size: 36;">
   𝕮𝖗𝖊𝖉𝖎𝖙 𝖒𝖊 𝖜𝖍𝖊𝖓 𝖚𝖘𝖎𝖓𝖌 𝖒𝖞 𝖎𝖉𝖊𝖆𝖘.
 </p>
