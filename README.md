@@ -29,9 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord&hide_title=true&hide_border=true" width="41%" style="vertical-align:middle;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord&hide_border=true" width="38%" style="vertical-align:middle;" />
 </p>
-
-
-  <div align="center">
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
 </div>
+
+<br/>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
