@@ -42,8 +42,6 @@
   <!-- Repo size -->
   <img src="https://img.shields.io/github/repo-size/NZK95/NZK95?label=Repo%20Size&color=orange&style=flat" height="20" />
   
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=orange&style=flat" height="20" />
 </p>
 
 
