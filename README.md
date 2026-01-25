@@ -26,7 +26,7 @@
 <p align="left">
   - 🔭 Exploring the world on informatics <br>
   - 🌱 Enjoy learn programming, robotics, ML and CS <br>
-  - ⚡ Trying to automate tedious tasks <br>
+  -  ⚡ Trying to automate tedious tasks <br>
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
 
