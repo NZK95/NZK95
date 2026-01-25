@@ -20,6 +20,8 @@
 
 <hr></hr>
 
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
 <div align="center" >
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord" width="50%">
