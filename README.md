@@ -25,7 +25,7 @@
 
 <p align="left">
   - 🔭 Exploring the world on informatics <br>
-  - 🌱 Enjoy learn programming, robotics, ML and CS <br>
+  - <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" Enjoy learn programming, robotics, ML and CS <br />
   -  ⚡ Trying to automate tedious tasks <br>
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
