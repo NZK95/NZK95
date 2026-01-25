@@ -24,10 +24,10 @@
 <hr></hr>
 
 <p align="right">
-  - 🔭 Exploring the world on informatics
-  - 🌱 Enjoy learn programming, robotics, ML and CS
-  - ⚡ Trying to automate tedious tasks
-  - 👨‍💻 Contributing to open-source projects
+  - 🔭 Exploring the world on informatics <br>
+  - 🌱 Enjoy learn programming, robotics, ML and CS <br>
+  - ⚡ Trying to automate tedious tasks <br>
+  - 👨‍💻 Contributing to open-source projects <br>
 </p>
 <div align="center" >
 <p align="center">
