@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/nohuto/nohuto/main/images/mario.gif" />
 </div>
@@ -21,7 +20,6 @@
 
 <hr></hr>
 
-
 <div align="center" >
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" style="vertical-align:middle;" />
@@ -35,4 +33,4 @@
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+</div>
