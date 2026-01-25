@@ -31,12 +31,7 @@
 </p>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NZK95&theme=darkhub&no-frame=true" />
-</p>
-
+<hr></hr>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" height="50" />
