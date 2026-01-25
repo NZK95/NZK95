@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/github/stars/NZK95?label=Stars&color=orange&style=flat" />
 </p>
 
-
-<br><br>
+<hr></hr>
 
 <div align="center" >
 <p align="center">
