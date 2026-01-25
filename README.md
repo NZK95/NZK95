@@ -8,11 +8,16 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg"/>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg"/>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/wpf.svg"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg"/>
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg"/>
 </p>
 
-<p aligb="center">
-  <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=808080&style=flat"</img>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=orange&style=flat" />
+  <img src="https://img.shields.io/github/followers/NZK95?label=Followers&color=orange&style=flat" />
+  <img src="https://img.shields.io/github/stars/NZK95?label=Stars&color=orange&style=flat" />
 </p>
+
 
 <br><br>
 
