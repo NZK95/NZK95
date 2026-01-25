@@ -29,6 +29,9 @@
   - ⚡ Trying to automate tedious tasks <br>
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
+
+<br><br><br><br>
+
 <div align="center" >
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="12%" style="vertical-align:middle;" />
