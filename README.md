@@ -24,7 +24,7 @@
 
 <div align="center" >
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" style="vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" style="vertical-align:middle;" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord&hide_title=true&hide_border=true" width="41%" style="vertical-align:middle;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord&hide_border=true" width="38%" style="vertical-align:middle;" />
