@@ -25,8 +25,8 @@
 
 <div align="center" >
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord&hide_title=true&hide_border=true" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord&hide_title=true&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord&hide_border=true" width="40%" />
 </p>
 
   <div align="center">
