@@ -23,8 +23,11 @@
 
 <hr></hr>
 
-<p>
+<p align="right">
   🔭 Exploring the world on informatics
+  🌱 Enjoy learn programming, robotics, ML and CS
+   ⚡ Trying to automate tedious tasks
+  👨‍💻 Contributing to open-source projects
 </p>
 <div align="center" >
 <p align="center">
@@ -34,7 +37,6 @@
 </p>
 </div>
 
-<hr></hr>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" height="50" />
