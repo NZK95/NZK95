@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/nohuto/nohuto/main/images/mario.gif" width="90%" />
   <br/>
   <b>NZK95</b> | Backend Developer | .NET
+  <br/>
+  <br/>
 </div>
 
 <p align="center">
