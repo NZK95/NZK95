@@ -14,11 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord" width="35%">
   <img src="https://streak-stats.demolab.com?user=NZK95&theme=nord" width="35%">
 </p>
-<details>
-  <summary>More stats</summary>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord">
-  </p>
-</details>
+  <div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 </div>
