@@ -30,7 +30,7 @@
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
 
-<br><br><br><br>
+<br><br>
 
 <div align="center" >
 <p align="center">
