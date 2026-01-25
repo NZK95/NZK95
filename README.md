@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=808080&style=flat" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt = ".dotnet"/>
 </p>
 
 <br><br>
