@@ -10,9 +10,7 @@
 
 <div align="center" >
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord" width="32%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord" width="35%">
-  <img src="https://streak-stats.demolab.com?user=NZK95&theme=nord" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord" width="50%">
 </p>
 
   <div align="center">
