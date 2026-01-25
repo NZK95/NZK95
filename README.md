@@ -23,7 +23,7 @@
 
 <hr></hr>
 
-<p align="right">
+<p align="left">
   - 🔭 Exploring the world on informatics <br>
   - 🌱 Enjoy learn programming, robotics, ML and CS <br>
   - ⚡ Trying to automate tedious tasks <br>
