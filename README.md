@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/stars/NZK95?label=Stars&color=orange&style=flat" />
 </p>
 
-<p>
+<p align="center">
   Welcome to my GitHub profile! Here I share my projects, experiments, and what I'm learning on my development journey
 </p>
 
