@@ -1,4 +1,4 @@
-<div align="center">
+c<div align="center">
   <img src="https://raw.githubusercontent.com/nohuto/nohuto/main/images/mario.gif" width="90%" />
 </div>
 
@@ -18,13 +18,13 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! Here I share my projects, experiments, and what I'm learning on my development journey
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/>Welcome to my GitHub profile! Here I share my projects, experiments, and what I'm learning on my development journey
 </p>
 
 <hr></hr>
 
 <p align="left">
-  - <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/> Enjoy learning programming, robotics, ML, and CS <br>
+  - 🌱 Enjoy learning programming, robotics, ML, and CS <br>
   -  ⚡  Trying to automate annoying tasks <br>
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
