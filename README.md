@@ -34,9 +34,9 @@
 <div align="center" >
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="12%" style="vertical-align:middle;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NZK95&show_icons=true&theme=nord&hide_title=true&hide_border=true" width="41%" style="vertical-align:middle;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord&hide_border=true" width="38%" style="vertical-align:middle;" />
-</p>
+<img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=NZK95&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+
+<img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=NZK95&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 </div>
 
 <!--Footer--> 
