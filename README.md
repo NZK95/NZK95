@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/github/stars/NZK95?label=Stars&color=orange&style=flat" />
 </p>
 
-<hr/>
-
 <h2 align="center"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/> Welcome to my GitHub profile!</h2>
 
 <p align="center">
