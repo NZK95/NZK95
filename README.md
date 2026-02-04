@@ -19,7 +19,7 @@
 
 <hr/>
 
-<h2 align="center"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/>Welcome to my GitHub profile!</h2>
+<h2 align="center"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/> Welcome to my GitHub profile!</h2>
 
 <p align="center">
    Here I share my projects, experiments, and what I'm learning on my development journey
@@ -32,7 +32,7 @@
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
 <table width="100%">
   <tr>
     <td width="50%">
