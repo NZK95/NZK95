@@ -33,7 +33,7 @@
 
 <hr/>
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
+<h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ </h2>
 <table width="100%">
   <tr>
     <td width="50%">
