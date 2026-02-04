@@ -38,3 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NZK95&layout=compact&theme=nord&hide_border=true" width="38%" style="vertical-align:middle;" />
 </p>
 </div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
