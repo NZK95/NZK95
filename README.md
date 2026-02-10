@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  - 🌱 Enjoy learning programming, robotics, ML, and CS <br>
+  - 🌱 Enjoy learning programming, algorithms, robotics, computer scienze and ML<br>
   -  ⚡  Trying to automate annoying tasks <br>
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
