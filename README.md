@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/github/stars/NZK95?label=Stars&color=orange&style=flat" />
 </p>
 
-<hr/>
 
   <h2 align="center"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/> ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ!</h2>
 <p align="center">
@@ -30,8 +29,6 @@
   -  ⚡  Trying to automate annoying tasks <br>
   - 👨‍💻 Contributing to open-source projects <br>
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
