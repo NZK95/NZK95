@@ -1,35 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nohuto/nohuto/main/images/mario.gif" width="90%" />
+  <img src="https://i.pinimg.com/originals/b0/59/9e/b0599edde0a1562995ebcd44c1e815be.gif" width="90%" />
 </div>
 
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" height="25" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" height="25" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" height="25" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/wpf.svg" height="25" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" height="25" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" height="25" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=NZK95&label=Profile%20views&color=orange&style=flat" />
-  <img src="https://img.shields.io/github/followers/NZK95?label=Followers&color=orange&style=flat" />
-  <img src="https://img.shields.io/github/stars/NZK95?label=Stars&color=orange&style=flat" />
-</p>
-
-
-  <h2 align="center"><img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif?raw=true" width="20"/> ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ!</h2>
-<p align="center">
-  <b> Here I share my projects, experiments, and what I'm learning on my development journey</b>
-</p>
-
-
-<p align="center">
-  - 🌱 Enjoy learning programming, algorithms, robotics, computer scienze and ML<br>
-  -  ⚡  Trying to automate annoying tasks <br>
-  - 👨‍💻 Contributing to open-source projects <br>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
